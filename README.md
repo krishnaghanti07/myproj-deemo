@@ -1,4 +1,4 @@
 # myproj-demo
 This is my first Git Repository.
 <br>
-Author - Srikrishna Ghanti
+Author - Srikrishna Ghanti (LPU)
